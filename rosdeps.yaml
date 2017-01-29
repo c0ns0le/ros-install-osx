@@ -19,7 +19,7 @@ python-matplotlib:
 python-numpy:
   osx:
     homebrew:
-      packages: [homebrew/science/numpy]
+      packages: [numpy]
 python-scapy:
   osx:
     pip:
