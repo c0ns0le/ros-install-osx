@@ -1,3 +1,7 @@
+qt:
+  osx:
+    homebrew:
+      packages: [cartr/qt4/qt]
 gazebo:
   osx:
     homebrew:
